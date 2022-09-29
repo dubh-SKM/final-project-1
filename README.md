@@ -3,4 +3,4 @@
 ## Bare bootstrap template for creating new websites
 
 ## Contributors
-cobyfielding
+cobyfielding plus friends
